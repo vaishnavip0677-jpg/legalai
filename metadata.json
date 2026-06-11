@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Lex",
+  "description": "AI-Powered precision legal assistant for document library management, automated risk analysis, and contract auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
